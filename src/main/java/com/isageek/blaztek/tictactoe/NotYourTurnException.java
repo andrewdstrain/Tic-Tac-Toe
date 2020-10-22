@@ -1,4 +1,4 @@
-package com.isageek.blaztek.day13.labb;
+package com.isageek.blaztek.tictactoe;
 
 public class NotYourTurnException extends Exception {
     public NotYourTurnException() {

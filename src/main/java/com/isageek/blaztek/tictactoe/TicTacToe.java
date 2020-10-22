@@ -1,4 +1,4 @@
-package com.isageek.blaztek.day13.labb;
+package com.isageek.blaztek.tictactoe;
 
 import java.util.Arrays;
 

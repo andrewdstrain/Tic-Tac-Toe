@@ -1,4 +1,4 @@
-package com.isageek.blaztek.day13.labb;
+package com.isageek.blaztek.tictactoe;
 
 public class AlreadyPlayedHereException extends Exception {
     public AlreadyPlayedHereException() {

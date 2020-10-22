@@ -1,4 +1,4 @@
-package com.isageek.blaztek.day13.labb;
+package com.isageek.blaztek.tictactoe;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
